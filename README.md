@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Power BI**
 
-- 👨‍💻 Some of my projects are available at [https://www.kaggle.com/felipefonte99](https://www.kaggle.com/felipefonte99)
+- 👨‍💻 Some of my codes are available at [https://www.kaggle.com/felipefonte99](https://www.kaggle.com/felipefonte99/code)
 
 - 💬 Ask me about **Python, SQL and Automated testing**
 
